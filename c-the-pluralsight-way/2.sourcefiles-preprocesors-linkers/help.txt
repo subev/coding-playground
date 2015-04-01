@@ -1,0 +1,2 @@
+the default GNU linker is invoked through the "ld" command
+it adds the preprocessed objects in the order they are added via the command
